@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(254, 207, 214);
+}
+h1 {
+    font-family: cursive;
+    font-size:large;
+    color:rgb(170, 94, 132)
+}
+h2{
+    font-family: cursive;
+    font-size:medium;
+    color:rgb(123, 63, 93)
+}
+p {
+    color:rgb(128, 31, 79)
+}
+ul{
+    color:rgb(182, 89, 160)
+}
